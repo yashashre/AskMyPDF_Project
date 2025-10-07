@@ -1,0 +1,14 @@
+# Ignore Python environment folders
+myenv/
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system and IDE files
+.DS_Store
+*.log
+
+# You can ignore other unnecessary files if needed
